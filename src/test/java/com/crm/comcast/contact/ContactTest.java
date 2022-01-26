@@ -39,6 +39,8 @@ public class ContactTest
 	@Test(groups="regressionTest")
 	public void modifyContact()
 	{
+		System.out.println("Starting modifyContact test");
+		
 		System.out.println("Executing modifyContact test");
 	}
 }
