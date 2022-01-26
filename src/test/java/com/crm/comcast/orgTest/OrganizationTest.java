@@ -7,6 +7,8 @@ public class OrganizationTest
 	@Test(groups="smokeTest")
 	public void createOrg()
 	{
+		System.out.println("Starting createContact test");
+		
 		System.out.println("Executing createContact test");
 	}
 	
