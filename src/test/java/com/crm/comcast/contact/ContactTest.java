@@ -12,6 +12,8 @@ public class ContactTest
 	{
 		System.out.println("Starting createContact test");
 		
+		System.out.println("Starting createContact test --- For Conflict");
+		
 		/*String Browser = System.getProperty("browser");
 		String Url = System.getProperty("url");
 		
