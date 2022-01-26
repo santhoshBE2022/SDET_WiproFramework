@@ -15,6 +15,8 @@ public class OrganizationTest
 	@Test(groups="regressionTest")
 	public void modifyOrg()
 	{
+		System.out.println("Starting modifyContact test");
+		
 		System.out.println("Executing modifyContact test");
 	}
 }
