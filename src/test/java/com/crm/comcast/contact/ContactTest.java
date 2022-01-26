@@ -10,6 +10,8 @@ public class ContactTest
 	@Test(groups="smokeTest")
 	public void createContact() throws Throwable
 	{
+		System.out.println("Starting createContact test");
+		
 		/*String Browser = System.getProperty("browser");
 		String Url = System.getProperty("url");
 		
