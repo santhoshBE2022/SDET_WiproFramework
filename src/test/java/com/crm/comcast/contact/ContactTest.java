@@ -10,11 +10,11 @@ public class ContactTest
 	@Test(groups="smokeTest")
 	public void createContact() throws Throwable
 	{
-		System.out.println("Starting createContact test");
+		//System.out.println("Starting createContact test");
 		
-		System.out.println("to verify");
+		//System.out.println("to verify");
 		
-		/*String Browser = System.getProperty("browser");
+		String Browser = System.getProperty("browser");
 		String Url = System.getProperty("url");
 		
 		System.out.println("Executing createContact test");
@@ -30,7 +30,7 @@ public class ContactTest
 		}
 		driver.get(Url);
 		Thread.sleep(1000);
-		driver.close();*/
+		driver.close();
 		
 		System.out.println("Executing createContact test");
 		
