@@ -15,7 +15,7 @@ public class ContactTest
 		//System.out.println("to verify");
 		
 		String Browser = System.getProperty("browser");
-		String Url = System.getProperty("url");
+		//String Url = System.getProperty("url");
 		
 		System.out.println("Executing createContact test");
 		
@@ -28,7 +28,7 @@ public class ContactTest
 		{
 			driver = new FirefoxDriver();
 		}
-		driver.get(Url);
+		//driver.get(Url);
 		Thread.sleep(1000);
 		driver.close();
 		
